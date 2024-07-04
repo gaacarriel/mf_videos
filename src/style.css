@@ -22,7 +22,7 @@ main{
     flex-direction: column;
 }
 
-.list-videos{
+.list-all{
     display: flex;
     gap: 10px;
     flex-wrap: wrap;
@@ -55,7 +55,7 @@ img{
         gap: 20px
     }
 
-    .list-videos{
+    .list-all{
         flex-direction: row;
         justify-content: space-between;
     }
